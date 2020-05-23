@@ -1,7 +1,7 @@
 {
   "name": "safe-nested",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "simple solution to work with objects in a safer way.",
   "main": "index.js",
   "scripts": {
     "test": "node test_SafeNested.js"
@@ -11,7 +11,7 @@
     "nested",
     "object"
   ],
-  "author": "",
+  "author": "Nir Adler",
   "license": "MIT",
   "dependencies": {
     "lodash.get": "^4.4.2",
