@@ -1,0 +1,18 @@
+{
+  "name": "safe-nested",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_SafeNested.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "lodash.has": "^4.5.2",
+    "lodash.hasin": "^4.5.2",
+    "lodash.set": "^4.3.2"
+  }
+}
