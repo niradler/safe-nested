@@ -2,7 +2,7 @@
 simple solution to work with objects in a safer way.
 
 ```sh
-npm i -g safe-nested
+npm i -S safe-nested
 ```
 
 ## SafeNested
