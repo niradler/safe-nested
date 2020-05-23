@@ -6,9 +6,13 @@
   "scripts": {
     "test": "node test_SafeNested.js"
   },
-  "keywords": [],
+  "keywords": [
+    "safe",
+    "nested",
+    "object"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash.get": "^4.4.2",
     "lodash.has": "^4.5.2",
